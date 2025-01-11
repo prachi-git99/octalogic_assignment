@@ -1,4 +1,4 @@
-package com.example.octalogic_assignment
+package com.example.vehical
 
 import io.flutter.embedding.android.FlutterActivity
 
